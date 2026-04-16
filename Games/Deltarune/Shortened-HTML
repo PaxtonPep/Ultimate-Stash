@@ -5,7 +5,7 @@
 <title>Loading…</title>
 <script>
 
-const url = "https://raw.githubusercontent.com/PaxtonPep/HTML-Codes/main/Deltarune/Full-HTML";
+const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Games/Deltarune/Full-HTML";
 
 fetch(url)
 .then(r => r.text())
