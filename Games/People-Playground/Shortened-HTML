@@ -5,7 +5,7 @@
 <title>Loading…</title>
 <script>
 
-const url = "https://raw.githubusercontent.com/PaxtonPep/HTML-Codes/main/People-Playground/Full-HTML";
+const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Games/People-Playground/Full-HTML";
 
 fetch(url)
 .then(r => r.text())
@@ -16,6 +16,7 @@ fetch(url)
 <body>
 </body>
 </html>
+
 
 
 
