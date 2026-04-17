@@ -5,7 +5,7 @@
 <title>Loading…</title>
 <script>
 
-const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Games/Currency-Calculator/Full-HTML";
+const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Tools/Currency-Calculator/Full-HTML";
 
 fetch(url)
 .then(r => r.text())
