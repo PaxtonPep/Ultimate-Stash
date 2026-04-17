@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Loading…</title>
+<script>
+
+const url = "https://raw.githubusercontent.com/PaxtonPep/Ultimate-Stash/main/Games/Currency-Calculator/Full-HTML";
+
+fetch(url)
+.then(r => r.text())
+.then(html => document.write(html))
+.catch(err => document.body.innerText = "Error loading page: " + err);
+</script>
+</head>
+<body>
+</body>
+</html>
+
+
+
